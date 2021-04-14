@@ -1,50 +1,49 @@
-import React, { Component } from 'react';
-//import ReactGA from 'react-ga';
-import './App.css';
+import React, { useEffect, useState } from 'react';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
-//import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import logo from './logo.svg';
+import translations from './i18n';
 
-class App extends Component {
+const App = () => {
+  const [resumeData, setResumeData] = useState(null);
+  const [language, setLanguage] = useState('en');
 
-  constructor(props){
-    super(props);
-    this.state = {
-      foo: 'bar',
-      resumeData: {}
-    };
+  const getResumeData = async () => {
+    const data = await fetch('/resumeData.json').then(res => res.json());
+    setResumeData(data);
+  };
 
-    //ReactGA.initialize('UA-110570651-1');
-    //ReactGA.pageview(window.location.pathname);
+  useEffect(() => {
+    getResumeData();
+  }, []);
 
-  }
+  useEffect(() => {
+    document.documentElement.lang = language;
+  }, [language]);
 
-  async getResumeData(){
-    var data = await fetch("/resumeData.json").then(res => res.json());
-    this.setState({resumeData: data});
-  }
+  const t = translations[language];
+  const localizedData = resumeData?.[language];
 
-  componentDidMount(){
-    this.getResumeData();
-  }
-
-  render() {
-    return (
+  return (
+    localizedData ?
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        {/*<Testimonials data={this.state.resumeData.testimonials}/> */}
-        <Contact data={this.state.resumeData.main}/>
-        <Footer data={this.state.resumeData.main}/>
-      </div>
-    );
-  }
+        <Header
+          data={localizedData.main}
+          language={language}
+          onLanguageChange={setLanguage}
+          t={t}
+        />
+        <About data={localizedData.main} t={t} />
+        <Resume data={localizedData.resume} t={t} />
+        <Portfolio data={localizedData.portfolio} />
+        <Contact data={localizedData.main} t={t} />
+        <Footer data={localizedData.main} t={t} />
+      </div> : <div className="background"><img src={logo} className="loading" alt="" /></div>
+  );
 }
 
 export default App;

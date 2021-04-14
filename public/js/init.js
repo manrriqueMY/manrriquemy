@@ -38,5 +38,4 @@
       }
 	});
 
-   window.doGTranslate = doGTranslate;
 });

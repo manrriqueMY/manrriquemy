@@ -1,177 +1,354 @@
 {
-  "main": {
-    "name":"Manrrique MENESES YARANGA",
-    "occupation":"Ingeniero de Sistemas",
-    "description":"programador Frontend pero tambien experimentado en el Backend y servidores",
-    "image":"logo.png",
-    "bio":"Ingeniero de sistemas con más de 5 años de experiencia en el desarrollo de aplicaciones Desktop, Web, Mobile, con diferentes lenguajes de programación (Java, C#, Python, JavaScript, PHP, Dart). Siendo un FullStack. Para  los  cuales  empleo  gestor  de  versiones GitHub como  principal,  y MySQL como  mi  DB  por  defecto, en  cuanto  a  servidor  proxy generalmente uso Apache por el SSL. La lista de tecnologías que uso, y me interesan es muy larga. Busco especializarme en campos orientados al UI, UX y Servidores siendo los campos, FRONT-END, MOBILE, DEVOPS.",
-    "contactmessage":"Contactame para poder entrevistarnos y trabajar",
-    "email": "manrrique.my@gmail.com",
-    "phone": "+51910103845",
-    "skype": "skype:live:meyaman_123",
-    "address":{
-      "street":"Lima",
-      "city":"Lima",
-      "state":"Perú",
-      "zip": "05003"
+  "en": {
+    "main": {
+      "name": "Manrrique Meneses Yaranga",
+      "occupation": "Systems Engineer | Full-Stack Developer",
+      "description": "Results-driven developer with 10+ years of experience designing, building, and scaling high-performance web, mobile, and desktop applications.",
+      "bio": "Systems Engineer and Full-Stack Developer with over 10 years of experience across the full software development lifecycle. Proficient in Java, C#, JavaScript, TypeScript, PHP, Python, Go, and Elixir. Experienced in architecting microservices, cloud deployments, real-time streaming features, and REST/GraphQL APIs, with a track record of optimizing databases, improving availability, and delivering intuitive user experiences.",
+      "contactmessage": "Let's connect to discuss how we can work together.",
+      "email": "manrrique.my@gmail.com",
+      "phone": "+51 910 103 845",
+      "address": {
+        "city": "Lima",
+        "state": "Peru"
+      },
+      "resumedownload": "https://1drv.ms/b/s!AloqJdL27du-jyp7Oxkn9O22HQr4",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/manrrique-my/",
+          "className": "fab fa-linkedin"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/manrriqueMY",
+          "className": "fab fa-github"
+        },
+        {
+          "name": "WhatsApp",
+          "url": "https://wa.me/51910103845",
+          "className": "fab fa-whatsapp"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/manrriquemy",
+          "className": "fab fa-telegram"
+        }
+      ]
     },
-    "website": "https://manrrique-my-dev.herokuapp.com/",
-    "resumedownload":"/React-Flutter-Manrrique-Meneses-Yaranga.pdf",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/manrrique.my",
-        "className":"fab fa-facebook"
+    "resume": {
+      "skillmessage": "A broad toolkit for building reliable, scalable products.",
+      "education": [
+        {
+          "school": "Universidad Nacional San Cristóbal de Huamanga (UNSCH)",
+          "degree": "Bachelor of Science in Systems Engineering",
+          "location": "Ayacucho, Peru"
+        }
+      ],
+      "work": [
+        {
+          "company": "Freelance",
+          "title": "Frontend Developer",
+          "location": "Lima, Peru",
+          "years": "Jul 2025 - Present",
+          "description": [
+            "Enhanced user experience by implementing interactive UI indicators and responsive gesture feedback.",
+            "Integrated Socket.IO and WebSockets to streamline user authorization and confirmation workflows.",
+            "Centralized video calling, interactive map rendering, and real-time chat modules to eliminate third-party dependencies."
+          ],
+          "technologies": "JavaScript, TypeScript, Socket.IO, Node.js, C# (SignalR), React, AWS, Firebase, GraphQL, React Native, Flutter, Ionic, Angular"
+        },
+        {
+          "company": "Onnesta",
+          "title": "Full-Stack C# Developer",
+          "location": "Lima, Peru",
+          "years": "Mar 2023 - Jun 2025",
+          "description": [
+            "Optimized background processing for datasets exceeding 1,000 records using background workers and asynchronous queues.",
+            "Added real-time progress indicators to improve the user experience across critical transaction flows.",
+            "Tracked, triaged, and resolved production bugs through automated ticketing systems to meet SLAs.",
+            "Implemented dynamic integrations with external XML (SOAP/WSDL) and JSON services."
+          ],
+          "technologies": "C# (.NET Core), Svelte, SvelteKit, React, Azure, AWS, Entity Framework, SQL Server, MySQL, GraphQL"
+        },
+        {
+          "company": "Nubity",
+          "title": "Backend JavaScript Developer",
+          "location": "Mexico City, Mexico",
+          "years": "Feb 2022 - Mar 2023",
+          "description": [
+            "Architected serverless microservices using AWS Lambda and EventBridge with an event-driven architecture.",
+            "Automated scheduled serverless tasks for resource optimization and data processing.",
+            "Containerized application components with Docker for portable, seamless CI/CD deployments.",
+            "Integrated event bus architectures for asynchronous communication between decoupled modules."
+          ],
+          "technologies": "AWS Lambda, Amazon DynamoDB, Amazon S3, Symfony, Node.js, Docker, IICS"
+        },
+        {
+          "company": "Evanuz",
+          "title": "Full-Stack JavaScript Developer",
+          "location": "Lima, Peru",
+          "years": "Feb 2021 - Jan 2022",
+          "description": [
+            "Developed an integrated financial payment module with exclusive discount programs.",
+            "Optimized database queries and API payloads to significantly reduce landing page load times.",
+            "Refactored frontend components to improve cross-device responsiveness and user flows.",
+            "Managed cloud microservice deployments using AWS Amplify, Heroku, and CloudWatch."
+          ],
+          "technologies": "AWS, React, MongoDB, GraphQL, Express.js, JavaScript"
+        },
+        {
+          "company": "ISolution",
+          "title": "Full-Stack PHP Developer",
+          "location": "Lima, Peru",
+          "years": "Feb 2019 - Dec 2020",
+          "description": [
+            "Overhauled web portal architecture and SEO, driving a 350% increase in web traffic over four months.",
+            "Built an interactive event calendar with video calling and centralized resource scheduling.",
+            "Integrated real-time customer support chat into e-commerce portals.",
+            "Implemented multiple payment gateways for POS and online platforms, reducing transaction drop-offs.",
+            "Led the development team in adopting CI/CD pipelines, reducing production issue resolution to minutes."
+          ],
+          "technologies": "Electronic invoicing, WebRTC, Blockchain, PHP (Laravel), React Native, Flutter, AWS, OpenTok, Heroku, GCP, FCM, Socket.IO, Machine Learning, AI"
+        },
+        {
+          "company": "SoftContab",
+          "title": "Full-Stack C# Developer",
+          "location": "Lima, Peru",
+          "years": "Aug 2017 - Nov 2018",
+          "description": [
+            "Optimized SQL queries and database indexes, improving accounting report execution speed by 40%.",
+            "Developed a mobile app interface for real-time access to account balances, invoices, and payment statements.",
+            "Built a 24/7 automated inventory tracking system for real-time asset and ownership management.",
+            "Redesigned web and desktop interfaces to improve usability and streamline data entry."
+          ],
+          "technologies": "C# (.NET Core), Razor, React Native, React, Azure, jQuery, Entity Framework, SQL Server, MySQL"
+        },
+        {
+          "company": "Telecoms",
+          "title": "Full-Stack Java Developer",
+          "location": "Lima, Peru",
+          "years": "May 2016 - Jun 2017",
+          "description": [
+            "Migrated core legacy systems to highly available infrastructure with automated fault tolerance.",
+            "Expanded system capacity to support customer service operations across twice as many offices.",
+            "Designed a centralized accounting module to consolidate multi-office reports for management.",
+            "Refactored legacy systems to improve performance and avoid costly full reimplementations."
+          ],
+          "technologies": "Java, Spring, JSTL, JSP, jQuery, Angular, Ionic, Ubuntu, AWS EC2, Oracle, MySQL, PostgreSQL, Docker, Kafka"
+        }
+      ],
+      "skills": {
+        "languages": ["PHP", "Java", "JavaScript", "TypeScript", "C#", "Dart", "Python", "Ruby", "Go", "Elixir"],
+        "backend": ["Node.js", "Express", "Spring Boot", ".NET Core", "Laravel", "Fiber", "Gin", "Phoenix", "Flask", "FastAPI", "NestJS"],
+        "frontend": ["React.js", "Angular", "Vue.js", "Svelte / SvelteKit", "Next.js"],
+        "databases": ["MySQL", "MSSQL", "PostgreSQL", "Oracle", "MongoDB", "DynamoDB", "Firebase", "Cosmos DB"],
+        "mobile": ["React Native", "Flutter", "Ionic"],
+        "cloudServices": ["AWS (Lambda, S3, Amplify, EC2, CloudWatch)", "Azure", "GCP", "Docker", "Kubernetes", "Git", "CI/CD", "WebSockets", "GraphQL"]
       },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/meyaman_123",
-        "className":"fab fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/manrrique-my/",
-        "className":"fab fa-linkedin"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/manrriqueMY",
-        "className":"fab fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"live:meyaman_123",
-        "className":"fab fa-skype"
-      }
-    ]
-  },
-  "resume":{
-    "skillmessage":"Habilidades con distintas tecnologias",
-    "education":[
-      {
-        "school":"Universidad Nacional San Cristobal de Huamanga",
-        "degree":"Bachiller en Ingenieria de Sistemas",
-        "graduated":"Diciembre 2018",
-        "description":"Planeación de proyectos, Ciclo de vida del software, Gestion de Proyectos, Procesamiento de Datos, Proceso Software, Automatización de Procesos"
-      }
-    ],
-    "work":[
-      {
-        "company":"Full Stack PHP",
-        "title":"",
-        "years":"Feb 2019 – Actual",
-        "description":[
-          "Mejoramiento de la experiencia de usuario y segúnSEO obteniendo 350% másvisitasen 4 meses.",
-          "Implementar un calendario de eventos con videollamadas para los usuarios, y centralizando la disponibilidadde los recursos.",
-          "Mejorando comunicaciónen ecommerce con los clientes, con una interaccióndirectavíachat.",
-          "Implementaciónde múltiples medios de pago para ecommerce y POS,y evitar perder clientes.",
-          "Dirigiendo el equipo de desarrollo implementamos integracióncontinua y así solucionar errores ensolo cuestiónde minutos."
-        ],
-        "tecnologies": "Facturación  electrónica, WebRTC, Blockchain,  PHP  (Laravel), React  Native, Flutter, AWS, OpenTok,  Heroku,  GCP,  FCM, SocketIO, ML,IA,"
-      },
-      {
-        "company":"Full Stack C#",
-        "title":"",
-        "years":"Aug 2017 –Nov 2018",
-        "description":[
-          "Optimizaciónde consultasparalos reportesde contabilidad40% másrápidos.",
-          "Disponibilidad a las consultas del cliente con al aplicativo móvil; saldos, cuotas, estados de cuenta, etc.",
-          "Traqueo exacto de losartículosdealmacéncon sus propietarios, y nuevos propietarios24/7.",
-          "Mejoramientode interfaz gráfica de la web y aplicativopara unamayor experiencia de usuario"
-        ],
-        "tecnologies": "C# (.Net Core Backend),Razor, React Native, ReactJS, AZURE, jQuery, Entity Framework, SQL Server, MySQL,"
-      },{
-        "company":"Full Stack JAVA",
-        "title":"",
-        "years":"May 2016 –Jun 2017",
-        "description":[          
-          "Migrando de servidorsegeneróuna alta disponibilidad del sistema y siendo tolerante a fallos.",
-          "Se duplica el número deoficinas para la atencióna los clientes.",
-          "Agregandoel módulo de contabilidad se pudogestionar varias sedes y centralizarlos reportes para la gerencia.",
-          "Se optimizó sistemas antiguos, dandonueva vida y evitando altos costos de reimplementación."
-        ],
-        "tecnologies": "JAVA(SpringBackend), JSTL, JSP, jQuery,Frontend (Angular IO, Ionic), Ubuntu, AWS(EC2), Oracle, MySQL, PostgreSQL,Docker, Kafka"
-      }
-    ],
-    "skills":{
-      "frontends":[
-        {"title":"React JS","image":"images/frontends/react.png"},
-        {"title":"Redux JS","image":"images/frontends/redux.png"},
-        {"title":"jQuery","image":"images/frontends/jquery.png"},
-        {"title":"Angular IO","image":"images/frontends/angular.png"},
-        {"title":"Vue JS","image":"images/frontends/vue.png"},
-        {"title":"Svelte JS","image":"images/frontends/svelte.png"},
-        {"title":"Bootstrap","image":"images/frontends/bootstrap.png"},
-        {"title":"Material UI","image":"images/frontends/material.png"}
-      ],
-      "mobiles":[
-        {"title":"Flutter","image":"images/mobiles/flutter.png"},
-        {"title":"React Native","image":"images/mobiles/reactnative.png"},
-        {"title":"Ionic","image":"images/mobiles/ionic.png"}
-      ],
-      "lenguages":[
-        {"title":"JavaScript","image":"images/languages/js.png"},
-        {"title":"Dart","image":"images/languages/dart.png"},
-        {"title":"PHP","image":"images/languages/php.png"},
-        {"title":"Java","image":"images/languages/java.png"},
-        {"title":"C#","image":"images/languages/cs.png"},
-        {"title":"Python","image":"images/languages/python.png"},
-        {"title":"TypeScript","image":"images/languages/ts.png"}
-      ],
-      "backends":[
-        {"title":"Laravel","image":"images/backends/laravel.png"},
-        {"title":"Spring","image":"images/backends/spring.png"},
-        {"title":"Express JS","image":"images/backends/express.png"},
-        {"title":".NET","image":"images/backends/netcore.png"},
-        {"title":"DJango","image":"images/backends/django.png"}
-      ],
-      "databases":[
-        {"title":"MySQL","image":"images/databases/mysql.png"},
-        {"title":"PostgreSQL","image":"images/databases/postgre.png"},
-        {"title":"MongoDB","image":"images/databases/mongo.png"},
-        {"title":"Oracle","image":"images/databases/oracle.png"},
-        {"title":"MSSQL Server","image":"images/databases/sqlserver.png"}
-      ],
-      "devops":[
-        {"title":"AWS(EC2, LightSail)","image":"images/devops/aws.png"},
-        {"title":"Git","image":"images/devops/git.png"},
-        {"title":"Node JS","image":"images/devops/node.png"},
-        {"title":"Docker","image":"images/devops/docker.png"},
-        {"title":"Heroku","image":"images/devops/heroku.png"},
-        {"title":"Azure","image":"images/devops/azure.png"},
-        {"title":"Apache","image":"images/devops/apache.png"},
-        {"title":"NginX","image":"images/devops/nginx.png"}
-      ],
-      "entornos":[
-        {"title":"Windows","image":"images/entornos/windows.png"},
-        {"title":"GitHub","image":"images/entornos/github.png"},
-        {"title":"Sublime Text","image":"images/entornos/sublime.png"},
-        {"title":"VS Code","image":"images/entornos/vscode.png"},
-        {"title":"XAMMP","image":"images/entornos/xammp.png"},
-        {"title":"Ubuntu","image":"images/entornos/ubuntu.png"}
+      "languages": [
+        {
+          "language": "Spanish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Professional working proficiency"
+        }
+      ]
+    },
+    "portfolio": {
+      "heading": "I can't share proprietary backend source code, but here are a few demos.",
+      "projects": [
+        {
+          "title": "Ionic - Flask",
+          "category": "Ionic and Flask (Python) demo, published on Google Play",
+          "image": "12590-tecnologia.jpg",
+          "url": "https://github.com/manrriqueMY/ionic-flask"
+        },
+        {
+          "title": "Dart - Flutter",
+          "category": "Flutter and Dart demo, published on Google Play",
+          "image": "12590-tecnologia.jpg",
+          "url": "https://github.com/manrriqueMY/tvmazeflutter"
+        }
       ]
     }
   },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Ionic - Flask",
-        "category":"Demo Ionic - Flask(Python), publicado en Google Play",
-        "image":"12590-tecnologia.jpg",
-        "url":"https://github.com/manrriqueMY/ionic-flask"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+  "es": {
+    "main": {
+      "name": "Manrrique Meneses Yaranga",
+      "occupation": "Ingeniero de Sistemas | Desarrollador Full-Stack",
+      "description": "Desarrollador orientado a resultados con más de 10 años de experiencia diseñando, creando y escalando aplicaciones web, móviles y de escritorio de alto rendimiento.",
+      "bio": "Ingeniero de Sistemas y desarrollador Full-Stack con más de 10 años de experiencia en todo el ciclo de vida del desarrollo de software. Experiencia con Java, C#, JavaScript, TypeScript, PHP, Python, Go y Elixir. Especializado en arquitectura de microservicios, despliegues en la nube, funcionalidades en tiempo real y APIs REST/GraphQL; con trayectoria optimizando bases de datos, mejorando la disponibilidad y creando experiencias de usuario intuitivas.",
+      "contactmessage": "Conversemos sobre cómo podemos trabajar juntos.",
+      "email": "manrrique.my@gmail.com",
+      "phone": "+51 910 103 845",
+      "address": {
+        "city": "Lima",
+        "state": "Perú"
       },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
-    ]
+      "resumedownload": "https://1drv.ms/b/s!AloqJdL27du-jwdjUwyQMn7MMWMm",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/manrrique-my/",
+          "className": "fab fa-linkedin"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/manrriqueMY",
+          "className": "fab fa-github"
+        },
+        {
+          "name": "WhatsApp",
+          "url": "https://wa.me/51910103845",
+          "className": "fab fa-whatsapp"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/manrriquemy",
+          "className": "fab fa-telegram"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Un conjunto amplio de herramientas para crear productos confiables y escalables.",
+      "education": [
+        {
+          "school": "Universidad Nacional San Cristóbal de Huamanga (UNSCH)",
+          "degree": "Ingeniero de Sistemas",
+          "location": "Ayacucho, Perú"
+        }
+      ],
+      "work": [
+        {
+          "company": "Independiente",
+          "title": "Desarrollador Frontend",
+          "location": "Lima, Perú",
+          "years": "Jul 2025 - Actualidad",
+          "description": [
+            "Mejoré la experiencia de usuario mediante indicadores interactivos de interfaz y respuestas gestuales adaptables.",
+            "Integré Socket.IO y WebSockets para agilizar los flujos de autorización y confirmación de usuarios.",
+            "Centralicé videollamadas, mapas interactivos y módulos de chat en tiempo real para eliminar dependencias de terceros."
+          ],
+          "technologies": "JavaScript, TypeScript, Socket.IO, Node.js, C# (SignalR), React, AWS, Firebase, GraphQL, React Native, Flutter, Ionic, Angular"
+        },
+        {
+          "company": "Onnesta",
+          "title": "Desarrollador Full-Stack C#",
+          "location": "Lima, Perú",
+          "years": "Mar 2023 - Jun 2025",
+          "description": [
+            "Optimicé el procesamiento en segundo plano de conjuntos de más de 1.000 registros mediante workers y colas asíncronas.",
+            "Añadí indicadores de progreso en tiempo real para mejorar la experiencia en flujos de transacciones críticos.",
+            "Registré, clasifiqué y resolví errores de producción mediante sistemas automatizados de tickets para cumplir los SLA.",
+            "Implementé integraciones dinámicas con servicios externos XML (SOAP/WSDL) y JSON."
+          ],
+          "technologies": "C# (.NET Core), Svelte, SvelteKit, React, Azure, AWS, Entity Framework, SQL Server, MySQL, GraphQL"
+        },
+        {
+          "company": "Nubity",
+          "title": "Desarrollador Backend JavaScript",
+          "location": "Ciudad de México, México",
+          "years": "Feb 2022 - Mar 2023",
+          "description": [
+            "Diseñé microservicios serverless con AWS Lambda y EventBridge mediante una arquitectura orientada a eventos.",
+            "Automaticé tareas serverless programadas para optimizar recursos y procesar datos.",
+            "Empaqueté componentes en contenedores Docker para facilitar despliegues CI/CD portables.",
+            "Integré buses de eventos para la comunicación asíncrona entre módulos desacoplados."
+          ],
+          "technologies": "AWS Lambda, Amazon DynamoDB, Amazon S3, Symfony, Node.js, Docker, IICS"
+        },
+        {
+          "company": "Evanuz",
+          "title": "Desarrollador Full-Stack JavaScript",
+          "location": "Lima, Perú",
+          "years": "Feb 2021 - Ene 2022",
+          "description": [
+            "Desarrollé un módulo integrado de procesamiento de pagos financieros con programas de descuentos exclusivos.",
+            "Optimicé consultas de bases de datos y cargas de API para reducir significativamente el tiempo de carga de la página principal.",
+            "Refactoricé componentes frontend para mejorar la adaptación a distintos dispositivos y los flujos de interacción.",
+            "Administré despliegues de microservicios en AWS Amplify, Heroku y CloudWatch."
+          ],
+          "technologies": "AWS, React, MongoDB, GraphQL, Express.js, JavaScript"
+        },
+        {
+          "company": "ISolution",
+          "title": "Desarrollador Full-Stack PHP",
+          "location": "Lima, Perú",
+          "years": "Feb 2019 - Dic 2020",
+          "description": [
+            "Renové la arquitectura del portal web y su estrategia SEO, aumentando el tráfico web un 350% en cuatro meses.",
+            "Creé un calendario interactivo de eventos con videollamadas y programación centralizada de recursos.",
+            "Integré chat de atención al cliente en tiempo real en portales de comercio electrónico.",
+            "Implementé varios medios de pago para puntos de venta y plataformas en línea, reduciendo el abandono de transacciones.",
+            "Lideré la adopción de pipelines CI/CD, reduciendo a minutos la resolución de incidentes de producción."
+          ],
+          "technologies": "Facturación electrónica, WebRTC, Blockchain, PHP (Laravel), React Native, Flutter, AWS, OpenTok, Heroku, GCP, FCM, Socket.IO, Machine Learning, IA"
+        },
+        {
+          "company": "SoftContab",
+          "title": "Desarrollador Full-Stack C#",
+          "location": "Lima, Perú",
+          "years": "Ago 2017 - Nov 2018",
+          "description": [
+            "Optimicé consultas SQL e índices de bases de datos y mejoré en un 40% la velocidad de los reportes contables.",
+            "Desarrollé una interfaz móvil para consultar en tiempo real saldos, facturas y estados de pago.",
+            "Creé un sistema automatizado de inventario disponible 24/7 para gestionar activos y propietarios en tiempo real.",
+            "Rediseñé interfaces web y de escritorio para mejorar la usabilidad y agilizar el ingreso de datos."
+          ],
+          "technologies": "C# (.NET Core), Razor, React Native, React, Azure, jQuery, Entity Framework, SQL Server, MySQL"
+        },
+        {
+          "company": "Telecoms",
+          "title": "Desarrollador Full-Stack Java",
+          "location": "Lima, Perú",
+          "years": "May 2016 - Jun 2017",
+          "description": [
+            "Migré sistemas heredados centrales a una infraestructura de alta disponibilidad con tolerancia automática a fallos.",
+            "Amplié la capacidad para atender clientes en el doble de oficinas.",
+            "Diseñé un módulo contable centralizado para consolidar reportes de varias sedes.",
+            "Refactoricé sistemas heredados para mejorar el rendimiento y evitar costosas reimplementaciones completas."
+          ],
+          "technologies": "Java, Spring, JSTL, JSP, jQuery, Angular, Ionic, Ubuntu, AWS EC2, Oracle, MySQL, PostgreSQL, Docker, Kafka"
+        }
+      ],
+      "skills": {
+        "languages": ["PHP", "Java", "JavaScript", "TypeScript", "C#", "Dart", "Python", "Ruby", "Go", "Elixir"],
+        "backend": ["Node.js", "Express", "Spring Boot", ".NET Core", "Laravel", "Fiber", "Gin", "Phoenix", "Flask", "FastAPI", "NestJS"],
+        "frontend": ["React.js", "Angular", "Vue.js", "Svelte / SvelteKit", "Next.js"],
+        "databases": ["MySQL", "MSSQL", "PostgreSQL", "Oracle", "MongoDB", "DynamoDB", "Firebase", "Cosmos DB"],
+        "mobile": ["React Native", "Flutter", "Ionic"],
+        "cloudServices": ["AWS (Lambda, S3, Amplify, EC2, CloudWatch)", "Azure", "GCP", "Docker", "Kubernetes", "Git", "CI/CD", "WebSockets", "GraphQL"]
+      },
+      "languages": [
+        {
+          "language": "Español",
+          "proficiency": "Nativo"
+        },
+        {
+          "language": "Inglés",
+          "proficiency": "Competencia profesional"
+        }
+      ]
+    },
+    "portfolio": {
+      "heading": "No puedo compartir código fuente propietario de backend, pero aquí tienes algunos demos.",
+      "projects": [
+        {
+          "title": "Ionic - Flask",
+          "category": "Demo de Ionic y Flask (Python), publicado en Google Play",
+          "image": "12590-tecnologia.jpg",
+          "url": "https://github.com/manrriqueMY/ionic-flask"
+        },
+        {
+          "title": "Dart - Flutter",
+          "category": "Demo de Flutter y Dart, publicado en Google Play",
+          "image": "12590-tecnologia.jpg",
+          "url": "https://github.com/manrriqueMY/tvmazeflutter"
+        }
+      ]
+    }
   }
 }
