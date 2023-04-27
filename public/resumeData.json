@@ -1,176 +1,366 @@
 {
   "main": {
-    "name":"Manrrique MENESES YARANGA",
-    "occupation":"Ingeniero de Sistemas",
-    "description":"programador Frontend pero tambien experimentado en el Backend y servidores",
-    "image":"logo.png",
-    "bio":"Ingeniero de sistemas con más de 5 años de experiencia en el desarrollo de aplicaciones Desktop, Web, Mobile, con diferentes lenguajes de programación (Java, C#, Python, JavaScript, PHP, Dart). Siendo un FullStack. Para  los  cuales  empleo  gestor  de  versiones GitHub como  principal,  y MySQL como  mi  DB  por  defecto, en  cuanto  a  servidor  proxy generalmente uso Apache por el SSL. La lista de tecnologías que uso, y me interesan es muy larga. Busco especializarme en campos orientados al UI, UX y Servidores siendo los campos, FRONT-END, MOBILE, DEVOPS.",
-    "contactmessage":"Contactame para poder entrevistarnos y trabajar",
+    "name": "Manrrique MENESES YARANGA",
+    "occupation": "Ingeniero de Sistemas",
+    "description": "programador Fullstack contando amplio conocimiento en Frontend, Backend y demas posiciones",
+    "image": "logo.png",
+    "bio": "Ingeniero de sistemas con más de 6 años de experiencia en el desarrollo de aplicaciones Desktop, Web, Mobile, con diferentes lenguajes de programación (Java, C#, Python, JavaScript, PHP, Dart). Siendo un FullStack. Para  los  cuales  empleo  gestor  de  versiones GitHub como  principal,  y MySQL como  mi  DB  por  defecto, en  cuanto  a  servidor  proxy generalmente uso Apache por el SSL. La lista de tecnologías que uso, y me interesan es muy larga. Busco especializarme en campos orientados al UI, UX y Servidores siendo los campos, FRONT-END, MOBILE, DEVOPS.",
+    "contactmessage": "Contactame para poder entrevistarnos y trabajar",
     "email": "manrrique.my@gmail.com",
     "phone": "+51910103845",
     "skype": "skype:live:meyaman_123",
-    "address":{
-      "street":"Lima",
-      "city":"Lima",
-      "state":"Perú",
+    "address": {
+      "street": "Lima",
+      "city": "Lima",
+      "state": "Perú",
       "zip": "05003"
     },
     "website": "https://manrrique-my-dev.herokuapp.com/",
-    "resumedownload":"/React-Flutter-Manrrique-Meneses-Yaranga.pdf",
-    "social":[
+    "resumedownloadEs": "https://1drv.ms/b/s!AloqJdL27du-jwdjUwyQMn7MMWMm",
+    "resumedownloadEn": "https://1drv.ms/b/s!AloqJdL27du-jyp7Oxkn9O22HQr4",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/manrrique.my",
-        "className":"fab fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/manrrique.my",
+        "className": "fab fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/meyaman_123",
-        "className":"fab fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/meyaman_123",
+        "className": "fab fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/manrrique-my/",
-        "className":"fab fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manrrique-my/",
+        "className": "fab fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/manrriqueMY",
-        "className":"fab fa-github"
+        "name": "github",
+        "url": "https://github.com/manrriqueMY",
+        "className": "fab fa-github"
       },
       {
-        "name":"skype",
-        "url":"live:meyaman_123",
-        "className":"fab fa-skype"
+        "name": "skype",
+        "url": "live:meyaman_123",
+        "className": "fab fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Habilidades con distintas tecnologias",
-    "education":[
+  "resume": {
+    "skillmessage": "Habilidades con distintas tecnologias",
+    "education": [
       {
-        "school":"Universidad Nacional San Cristobal de Huamanga",
-        "degree":"Bachiller en Ingenieria de Sistemas",
-        "graduated":"Diciembre 2018",
-        "description":"Planeación de proyectos, Ciclo de vida del software, Gestion de Proyectos, Procesamiento de Datos, Proceso Software, Automatización de Procesos"
+        "school": "Universidad Nacional San Cristobal de Huamanga",
+        "degree": "Ingeniero de Sistemas",
+        "graduated": "2018",
+        "description": "Planeación de proyectos, Ciclo de vida del software, Gestion de Proyectos, Procesamiento de Datos, Proceso Software, Automatización de Procesos"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Full Stack PHP",
-        "title":"",
-        "years":"Feb 2019 – Actual",
-        "description":[
-          "Mejoramiento de la experiencia de usuario y segúnSEO obteniendo 350% másvisitasen 4 meses.",
-          "Implementar un calendario de eventos con videollamadas para los usuarios, y centralizando la disponibilidadde los recursos.",
-          "Mejorando comunicaciónen ecommerce con los clientes, con una interaccióndirectavíachat.",
-          "Implementaciónde múltiples medios de pago para ecommerce y POS,y evitar perder clientes.",
-          "Dirigiendo el equipo de desarrollo implementamos integracióncontinua y así solucionar errores ensolo cuestiónde minutos."
+        "company": "Desarrollador JavaScript",
+        "title": "",
+        "years": "Feb 2022 - Mar 2023",
+        "description": [
+          "Creación de servicios serverless(microservicios) con Lambda en AWS.",
+          "Tareas programadas para optimización de recursos basado en eventos",
+          "Dockerización para facilitar despliegues y portabilidad de la aplicación",
+          "Arquitectura de bus de eventos."
         ],
-        "tecnologies": "Facturación  electrónica, WebRTC, Blockchain,  PHP  (Laravel), React  Native, Flutter, AWS, OpenTok,  Heroku,  GCP,  FCM, SocketIO, ML,IA,"
+        "tecnologies": "AWS Lambda, Amazon DynamoDB, Amazon S3, Framework Symfony, Node.js, Docker"
       },
       {
-        "company":"Full Stack C#",
-        "title":"",
-        "years":"Aug 2017 –Nov 2018",
-        "description":[
+        "company": "Full Stack JAVASCRIPT",
+        "title": "",
+        "years": "Ene 2021 - Feb 2022",
+        "description": [
+          "Creacion de Medio de Pago asociado a Entidad financiera para pagos y descuentos exclusivos",
+          "Optimización de consultas para carga mas rápida del HOMEPAGE.",
+          "Mejora de responsivo y UX de la Web.",
+          "Administración de Microservicios en AWS(Amplify), Heroku"
+        ],
+        "tecnologies": "AWS S3, AWS Lambda, AWS Amplify, React, MongoDB, GraphQL, ExpressJS, JavaScript"
+      },
+      {
+        "company": "Full Stack PHP",
+        "title": "",
+        "years": "Feb 2019 - Dic 2020",
+        "description": [
+          "Mejoramiento de la experiencia de usuario y según SEO obteniendo 350% másvisitasen 4 meses.",
+          "Implementar un calendario de eventos con videollamadas para los usuarios, y centralizando la disponibilidadde los recursos.",
+          "Mejorando comunicaciónen ecommerce con los clientes, con una interaccióndirectavíachat.",
+          "Implementación de múltiples medios de pago para ecommerce y POS,y evitar perder clientes.",
+          "Dirigiendo el equipo de desarrollo implementamos integracióncontinua y así solucionar errores ensolo cuestiónde minutos."
+        ],
+        "tecnologies": "Facturación  electrónica, WebRTC, Blockchain,  PHP  (Laravel), React  Native, Flutter, AWS, OpenTok,  Heroku,  GCP,  FCM, SocketIO, ML,IA"
+      },
+      {
+        "company": "Full Stack C#",
+        "title": "",
+        "years": "Aug 2017 - Nov 2018",
+        "description": [
           "Optimizaciónde consultasparalos reportesde contabilidad40% másrápidos.",
           "Disponibilidad a las consultas del cliente con al aplicativo móvil; saldos, cuotas, estados de cuenta, etc.",
           "Traqueo exacto de losartículosdealmacéncon sus propietarios, y nuevos propietarios24/7.",
           "Mejoramientode interfaz gráfica de la web y aplicativopara unamayor experiencia de usuario"
         ],
         "tecnologies": "C# (.Net Core Backend),Razor, React Native, ReactJS, AZURE, jQuery, Entity Framework, SQL Server, MySQL,"
-      },{
-        "company":"Full Stack JAVA",
-        "title":"",
-        "years":"May 2016 –Jun 2017",
-        "description":[          
+      },
+      {
+        "company": "Full Stack JAVA",
+        "title": "",
+        "years": "May 2016 - Jun 2017",
+        "description": [
           "Migrando de servidorsegeneróuna alta disponibilidad del sistema y siendo tolerante a fallos.",
           "Se duplica el número deoficinas para la atencióna los clientes.",
           "Agregandoel módulo de contabilidad se pudogestionar varias sedes y centralizarlos reportes para la gerencia.",
           "Se optimizó sistemas antiguos, dandonueva vida y evitando altos costos de reimplementación."
         ],
-        "tecnologies": "JAVA(SpringBackend), JSTL, JSP, jQuery,Frontend (Angular IO, Ionic), Ubuntu, AWS(EC2), Oracle, MySQL, PostgreSQL,Docker, Kafka"
+        "tecnologies": "Tecnologías: JAVA (Spring Backend), JSTL, JSP, jQuery, Frontend (Angular IO, Ionic), Ubuntu, AWS(EC2), Oracle, MySQL, PostgreSQL, Docker, Kafka"
       }
     ],
-    "skills":{
-      "frontends":[
-        {"title":"React JS","image":"images/frontends/react.png"},
-        {"title":"Redux JS","image":"images/frontends/redux.png"},
-        {"title":"jQuery","image":"images/frontends/jquery.png"},
-        {"title":"Angular IO","image":"images/frontends/angular.png"},
-        {"title":"Vue JS","image":"images/frontends/vue.png"},
-        {"title":"Svelte JS","image":"images/frontends/svelte.png"},
-        {"title":"Bootstrap","image":"images/frontends/bootstrap.png"},
-        {"title":"Material UI","image":"images/frontends/material.png"}
+    "skills": {
+      "frontends": [
+        {
+          "title": "React JS",
+          "image": "images/frontends/react.png"
+        },
+        {
+          "title": "Redux JS",
+          "image": "images/frontends/redux.png"
+        },
+        {
+          "title": "jQuery",
+          "image": "images/frontends/jquery.png"
+        },
+        {
+          "title": "Angular IO",
+          "image": "images/frontends/angular.png"
+        },
+        {
+          "title": "Vue JS",
+          "image": "images/frontends/vue.png"
+        },
+        {
+          "title": "Svelte JS",
+          "image": "images/frontends/svelte.png"
+        },
+        {
+          "title": "Bootstrap",
+          "image": "images/frontends/bootstrap.png"
+        },
+        {
+          "title": "Material UI",
+          "image": "images/frontends/material.png"
+        }
       ],
-      "mobiles":[
-        {"title":"Flutter","image":"images/mobiles/flutter.png"},
-        {"title":"React Native","image":"images/mobiles/reactnative.png"},
-        {"title":"Ionic","image":"images/mobiles/ionic.png"}
+      "mobiles": [
+        {
+          "title": "Flutter",
+          "image": "images/mobiles/flutter.png"
+        },
+        {
+          "title": "React Native",
+          "image": "images/mobiles/reactnative.png"
+        },
+        {
+          "title": "Ionic",
+          "image": "images/mobiles/ionic.png"
+        }
       ],
-      "lenguages":[
-        {"title":"JavaScript","image":"images/languages/js.png"},
-        {"title":"Dart","image":"images/languages/dart.png"},
-        {"title":"PHP","image":"images/languages/php.png"},
-        {"title":"Java","image":"images/languages/java.png"},
-        {"title":"C#","image":"images/languages/cs.png"},
-        {"title":"Python","image":"images/languages/python.png"},
-        {"title":"TypeScript","image":"images/languages/ts.png"}
+      "lenguages": [
+        {
+          "title": "JavaScript",
+          "image": "images/languages/js.png"
+        },
+        {
+          "title": "Dart",
+          "image": "images/languages/dart.png"
+        },
+        {
+          "title": "PHP",
+          "image": "images/languages/php.png"
+        },
+        {
+          "title": "Java",
+          "image": "images/languages/java.png"
+        },
+        {
+          "title": "C#",
+          "image": "images/languages/cs.png"
+        },
+        {
+          "title": "Python",
+          "image": "images/languages/python.png"
+        },
+        {
+          "title": "TypeScript",
+          "image": "images/languages/ts.png"
+        },
+        {
+          "title": "Ruby",
+          "image": "images/languages/ruby.png"
+        }
       ],
-      "backends":[
-        {"title":"Laravel","image":"images/backends/laravel.png"},
-        {"title":"Spring","image":"images/backends/spring.png"},
-        {"title":"Express JS","image":"images/backends/express.png"},
-        {"title":".NET","image":"images/backends/netcore.png"},
-        {"title":"DJango","image":"images/backends/django.png"}
+      "backends": [
+        {
+          "title": "Laravel",
+          "image": "images/backends/laravel.png"
+        },
+        {
+          "title": "Symfony",
+          "image": "images/backends/symfony.png"
+        },
+        {
+          "title": "Spring",
+          "image": "images/backends/spring.png"
+        },
+        {
+          "title": "Quarkus",
+          "image": "images/backends/quarkus.png"
+        },
+        {
+          "title": "Express JS",
+          "image": "images/backends/express.png"
+        },
+        {
+          "title": ".NET",
+          "image": "images/backends/netcore.png"
+        },
+        {
+          "title": "DJango",
+          "image": "images/backends/django.png"
+        },
+        {
+          "title": "Flask",
+          "image": "images/backends/flask.png"
+        },
+        {
+          "title": "FastAPI",
+          "image": "images/backends/fastapi.png"
+        },
+        {
+          "title": "Ruby on Rails",
+          "image": "images/backends/ror.png"
+        }
       ],
-      "databases":[
-        {"title":"MySQL","image":"images/databases/mysql.png"},
-        {"title":"PostgreSQL","image":"images/databases/postgre.png"},
-        {"title":"MongoDB","image":"images/databases/mongo.png"},
-        {"title":"Oracle","image":"images/databases/oracle.png"},
-        {"title":"MSSQL Server","image":"images/databases/sqlserver.png"}
+      "databases": [
+        {
+          "title": "MySQL",
+          "image": "images/databases/mysql.png"
+        },
+        {
+          "title": "PostgreSQL",
+          "image": "images/databases/postgre.png"
+        },
+        {
+          "title": "MongoDB",
+          "image": "images/databases/mongo.png"
+        },
+        {
+          "title": "Oracle",
+          "image": "images/databases/oracle.png"
+        },
+        {
+          "title": "MSSQL Server",
+          "image": "images/databases/sqlserver.png"
+        },
+        {
+          "title": "DynamoDB",
+          "image": "images/databases/dynamodb.png"
+        }
       ],
-      "devops":[
-        {"title":"AWS(EC2, LightSail)","image":"images/devops/aws.png"},
-        {"title":"Git","image":"images/devops/git.png"},
-        {"title":"Node JS","image":"images/devops/node.png"},
-        {"title":"Docker","image":"images/devops/docker.png"},
-        {"title":"Heroku","image":"images/devops/heroku.png"},
-        {"title":"Azure","image":"images/devops/azure.png"},
-        {"title":"Apache","image":"images/devops/apache.png"},
-        {"title":"NginX","image":"images/devops/nginx.png"}
+      "devops": [
+        {
+          "title": "AWS(EC2, LightSail)",
+          "image": "images/devops/aws.png"
+        },
+        {
+          "title": "Git",
+          "image": "images/devops/git.png"
+        },
+        {
+          "title": "Node JS",
+          "image": "images/devops/node.png"
+        },
+        {
+          "title": "Docker",
+          "image": "images/devops/docker.png"
+        },
+        {
+          "title": "Heroku",
+          "image": "images/devops/heroku.png"
+        },
+        {
+          "title": "Azure",
+          "image": "images/devops/azure.png"
+        },
+        {
+          "title": "Apache",
+          "image": "images/devops/apache.png"
+        },
+        {
+          "title": "NginX",
+          "image": "images/devops/nginx.png"
+        }
       ],
-      "entornos":[
-        {"title":"Windows","image":"images/entornos/windows.png"},
-        {"title":"GitHub","image":"images/entornos/github.png"},
-        {"title":"Sublime Text","image":"images/entornos/sublime.png"},
-        {"title":"VS Code","image":"images/entornos/vscode.png"},
-        {"title":"XAMMP","image":"images/entornos/xammp.png"},
-        {"title":"Ubuntu","image":"images/entornos/ubuntu.png"}
+      "entornos": [
+        {
+          "title": "Windows",
+          "image": "images/entornos/windows.png"
+        },
+        {
+          "title": "GitHub",
+          "image": "images/entornos/github.png"
+        },
+        {
+          "title": "Sublime Text",
+          "image": "images/entornos/sublime.png"
+        },
+        {
+          "title": "VS Code",
+          "image": "images/entornos/vscode.png"
+        },
+        {
+          "title": "XAMMP",
+          "image": "images/entornos/xammp.png"
+        },
+        {
+          "title": "Ubuntu",
+          "image": "images/entornos/ubuntu.png"
+        },
+        {
+          "title": "Macbook",
+          "image": "images/entornos/m1.png"
+        }
       ]
     }
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Ionic - Flask",
-        "category":"Demo Ionic - Flask(Python), publicado en Google Play",
-        "image":"12590-tecnologia.jpg",
-        "url":"https://github.com/manrriqueMY/ionic-flask"
+        "title": "Ionic - Flask",
+        "category": "Demo Ionic - Flask(Python), publicado en Google Play",
+        "image": "12590-tecnologia.jpg",
+        "url": "https://github.com/manrriqueMY/ionic-flask"
+      },
+      {
+        "title": "Dart - Flutter",
+        "category": "Demo Flutter - Dart, publicado en Google Play",
+        "image": "12590-tecnologia.jpg",
+        "url": "https://github.com/manrriqueMY/tvmazeflutter"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
