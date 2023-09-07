@@ -4,7 +4,7 @@
     "occupation": "Ingeniero de Sistemas",
     "description": "programador Fullstack contando amplio conocimiento en Frontend, Backend y demas posiciones",
     "image": "logo.png",
-    "bio": "Ingeniero de sistemas con más de 6 años de experiencia en el desarrollo de aplicaciones Desktop, Web, Mobile, con diferentes lenguajes de programación (Java, C#, Python, JavaScript, PHP, Dart). Siendo un FullStack. Para  los  cuales  empleo  gestor  de  versiones GitHub como  principal,  y MySQL como  mi  DB  por  defecto, en  cuanto  a  servidor  proxy generalmente uso Apache por el SSL. La lista de tecnologías que uso, y me interesan es muy larga. Busco especializarme en campos orientados al UI, UX y Servidores siendo los campos, FRONT-END, MOBILE, DEVOPS.",
+    "bio": "Ingeniero de sistemas con más de 6 años de experiencia en el desarrollo de aplicaciones Desktop, Web, Mobile, con diferentes lenguajes de programación (Java, C#, Python, JavaScript, PHP, Dart, Ruby). Siendo un FullStack. Para  los  cuales  empleo  gestor  de  versiones GitHub como  principal,  y MySQL como  mi  DB  por  defecto, en  cuanto  a  servidor  proxy generalmente uso Apache por el SSL. La lista de tecnologías que uso, y me interesan es muy larga.",
     "contactmessage": "Contactame para poder entrevistarnos y trabajar",
     "email": "manrrique.my@gmail.com",
     "phone": "+51910103845",
@@ -19,16 +19,6 @@
     "resumedownloadEs": "https://1drv.ms/b/s!AloqJdL27du-jwdjUwyQMn7MMWMm",
     "resumedownloadEn": "https://1drv.ms/b/s!AloqJdL27du-jyp7Oxkn9O22HQr4",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/manrrique.my",
-        "className": "fab fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/meyaman_123",
-        "className": "fab fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/manrrique-my/",
@@ -58,7 +48,7 @@
     ],
     "work": [
       {
-        "company": "Desarrollador JavaScript",
+        "company": "Desarrollador Backend JavaScript",
         "title": "",
         "years": "Feb 2022 - Mar 2023",
         "description": [
