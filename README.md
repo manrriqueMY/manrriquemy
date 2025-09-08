@@ -1,8 +1,6 @@
 # Manrrique Meneses Yaranga
 **Systems Engineer | FullStack Developer**  
 📍 Lima, Peru (TZ - EST | UTC-5)  
-📧 [manrrique.my@gmail.com](mailto:manrrique.my@gmail.com)  
-📞 +51 910103845  
 🔗 [LinkedIn](https://www.linkedin.com/in/manrrique-my/)
 
 ---
