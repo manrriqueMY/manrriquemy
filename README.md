@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# Manrrique Meneses Yaranga
+**Systems Engineer | FullStack Developer**  
+📍 Lima, Peru (TZ - EST | UTC-5)  
+📧 [manrrique.my@gmail.com](mailto:manrrique.my@gmail.com)  
+📞 +51 910103845  
+🔗 [LinkedIn](https://www.linkedin.com/in/manrrique-my/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 👤 Profile
+Systems Engineer with more than 8 years of experience in the development of Desktop, Web, and Mobile applications using different programming languages (Java, C#, JavaScript, PHP, Dart, Python, Ruby, GO).  
+Full Stack developer with experience in version control (GitHub), databases (MySQL as default), and proxy servers (Apache over SSL). Experienced with external integrations in **XML, JSON, GraphQL**.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🛠 Skills
+- **Languages:** PHP, Java, JavaScript, C#, TypeScript, Dart, Python, Ruby, GO  
+- **Backend Frameworks:** Laravel, Spring, Express, NodeJS, .NET, Ruby on Rails, Sinatra, Flask, FastAPI  
+- **Frontend Frameworks:** Angular, React, Vue, Svelte  
+- **Databases:** SQL (MySQL, MSSQL, PostgreSQL, Oracle), NoSQL (Firebase, MongoDB, CosmosDB)  
+- **Mobile Frameworks:** Ionic, React Native, Flutter  
+- **DevOps & Cloud:** AWS, Azure, GCP, Docker, Kubernetes  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💼 Experience
 
-### `npm test`
+### *FullStack JavaScript*  
+**Lima – Perú | Mar 2023 – Jun 2025**  
+- Optimized processing of requests for more than 1000 records with Workers.  
+- Improved UX by adding indicators in each request.  
+- Implemented dynamic external requests to JSON and XML via WSDL (SOAP).  
+- Tracked and resolved errors via ticketing system.  
+**Technologies:** JS/TS (Express, NextJS, NodeJS), ReactJS, AWS, MySQL, GraphQL, AWS Lambda, DynamoDB, PostgreSQL, ETL  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### *JavaScript Backend Developer*  
+**México CD – México | Feb 2022 – Mar 2023**  
+- Developed serverless services (microservices) with AWS Lambda.  
+- Scheduled tasks for resource optimization based on events.  
+- Implemented Dockerization for portability (EKS).  
+- Designed Event Bus Architecture.  
+**Technologies:** AWS Lambda, DynamoDB, Amazon S3, Symfony, NodeJS, Docker, IICS  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### *FullStack JavaScript*  
+**Lima – Perú | Feb 2021 – Jan 2022**  
+- Built a payment system for financial institution exclusive discounts.  
+- Optimized queries for faster homepage loading.  
+- Improved responsiveness and UX.  
+- Managed microservices in AWS (Amplify) and Heroku.  
+**Technologies:** AWS, React, MongoDB, GraphQL, ExpressJS, NodeJS, SocketIO, CloudWatch, S3  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### *FullStack PHP*  
+**Lima – Perú | Feb 2019 – Dec 2020**  
+- Improved UX and SEO, increasing visits by **350% in 4 months**.  
+- Built event calendar with video calls, centralizing resource availability.  
+- Added multi-payment methods for ecommerce and POS.  
+- Led development team with continuous integration, reducing errors.  
+**Technologies:** PHP (Laravel), React Native, Flutter, AWS, OpenTok, Heroku, GCP, FCM, SocketIO, ML/AI, CloudWatch, S3, IAM  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### *FullStack C#*  
+**Lima – Perú | Aug 2017 – Nov 2018**  
+- Optimized accounting reports (40% faster).  
+- Built mobile app for customer account queries.  
+- Implemented warehouse item tracking with owner transitions.  
+- Enhanced UI/UX for web and app.  
+**Technologies:** C# (.NET Core), Razor, React Native, ReactJS, Azure, jQuery, Entity Framework, SQL Server, MySQL  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### *FullStack Java*  
+**Lima – Perú | May 2016 – Jun 2017**  
+- Migrated servers for high availability and fault tolerance.  
+- Doubled customer service offices.  
+- Added accounting module for centralized multi-office reporting.  
+- Optimized legacy systems, avoiding costly re-implementations.  
+**Technologies:** Java (Spring), JSTL, JSP, jQuery, Angular, Ionic, Ubuntu, AWS (EC2), Oracle, MySQL, PostgreSQL, Docker, Kafka  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎓 Education
+- **Systems Engineer** – San Cristóbal de Huamanga National University (UNSCH), Ayacucho – Perú  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🌐 Languages
+- **Spanish** – Native  
+- **English** – Professional  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
