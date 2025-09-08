@@ -6,8 +6,8 @@
 ---
 
 ## 👤 Profile
-Systems Engineer with more than 8 years of experience in the development of Desktop, Web, and Mobile applications using different programming languages (Java, C#, JavaScript, PHP, Dart, Python, Ruby, GO).  
-Full Stack developer with experience in version control (GitHub), databases (MySQL as default), and proxy servers (Apache over SSL). Experienced with external integrations in **XML, JSON, GraphQL**.  
+Systems Engineer with more than 8 years of experience in the development of Desktop, Web, Mobile applications, with different programming languages ​​(Java, C #, Python, JavaScript, PHP, Dart, Ruby). Being a Full Stack.
+For which I use GitHub version manager as main, and MySQL as my default DB, as for proxy server I generally use Apache over SSL. The list of technologies that I use, and I am interested in, is very long.  
 
 ---
 
